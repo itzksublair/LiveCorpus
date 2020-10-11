@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-10-11T16:25:37+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-10-11T16:48:08+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Lenovo/Desktop/androbologist.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./androbologist.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:88e213b7-b1cb-4053-8b1c-7c5cdd958aaa</PROPERTY>
@@ -1483,7 +1483,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts446" TIME_SLOT_REF2="ts460">
-                <ANNOTATION_VALUE>не ну я думаю еще лингвистыыы / на самом деле очень даже //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>не ну я думаю еще лингвисты / на самом деле очень даже //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1553,7 +1553,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts802" TIME_SLOT_REF2="ts840">
-                <ANNOTATION_VALUE>как бы / такое можно что-то придумать да но / основные моменты в общем б / или известны / или / ну / в принципе / можно / узнать / эээ / как-нибудь так изголившись / ээ //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>как бы / такое можно что-то придумать да но / основные моменты в общем б... / или известны / или / ну / в принципе / можно / узнать / эээ / как-нибудь так изголившись / ээ //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1643,7 +1643,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a142" TIME_SLOT_REF1="ts1201" TIME_SLOT_REF2="ts1227">
-                <ANNOTATION_VALUE>а / передача бактериального метагенома / изо рта в рот / поо геному наа эмали зубов / можно вполне узнать / вот / и посмотреть //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а / передача бактериального метагенома / изо рта в рот / по геному на эмали зубов / можно вполне узнать / вот / и посмотреть //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1668,7 +1668,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a151" TIME_SLOT_REF1="ts1295" TIME_SLOT_REF2="ts1320">
-                <ANNOTATION_VALUE>ну / мон / это / вряд ли / смотря с чем бутылка / потому что она может обеззаразить как раз / ээ //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ну / мон... / это / вряд ли / смотря с чем бутылка / потому что она может обеззаразить как раз / ээ //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1705,7 +1705,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts70">
-                <ANNOTATION_VALUE>какой он / какой вопрос вас мучает как специалиста / и /  в вам бы хотелось чтоб кто-нибудь где-нибудь на земле хотя бы нашел ответ на этот вопрос ?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>какой он / какой вопрос вас мучает как специалиста / и /  в... вам бы хотелось чтоб кто-нибудь где-нибудь на земле хотя бы нашел ответ на этот вопрос ?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1770,7 +1770,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a102" TIME_SLOT_REF1="ts696" TIME_SLOT_REF2="ts727">
-                <ANNOTATION_VALUE>среди прочего вы / написали книжку / которую / мы были рады издавать / бай байки из грота про / как бы / ль / частную жизнь / древних людей //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>среди прочего вы / написали книжку / которую / мы были рады издавать / бай байки из грота про / как бы / ль... / частную жизнь / древних людей //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1805,7 +1805,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a118" TIME_SLOT_REF1="ts1030" TIME_SLOT_REF2="ts1042">
-                <ANNOTATION_VALUE>ну а па / какие //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ну а па... / какие //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3297,7 +3297,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a455" TIME_SLOT_REF1="ts451" TIME_SLOT_REF2="ts452">
-                <ANNOTATION_VALUE>лингвистыыы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>лингвисты</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4257,7 +4257,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a647" TIME_SLOT_REF1="ts816" TIME_SLOT_REF2="ts817">
-                <ANNOTATION_VALUE>б</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>б...</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5972,7 +5972,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a987" TIME_SLOT_REF1="ts1212" TIME_SLOT_REF2="ts1213">
-                <ANNOTATION_VALUE>поо</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>по</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5982,7 +5982,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a989" TIME_SLOT_REF1="ts1214" TIME_SLOT_REF2="ts1215">
-                <ANNOTATION_VALUE>наа</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>на</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6272,7 +6272,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1049" TIME_SLOT_REF1="ts1297" TIME_SLOT_REF2="ts1298">
-                <ANNOTATION_VALUE>мон</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>мон...</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6744,7 +6744,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1444" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
-                <ANNOTATION_VALUE>в</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>в...</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7589,7 +7589,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1446" TIME_SLOT_REF1="ts719" TIME_SLOT_REF2="ts720">
-                <ANNOTATION_VALUE>ль</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ль...</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8029,7 +8029,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1397" TIME_SLOT_REF1="ts1032" TIME_SLOT_REF2="ts1033">
-                <ANNOTATION_VALUE>па</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>па...</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8231,21 +8231,6 @@
     <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
     <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
     <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
-    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
-        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
-        <CV_ENTRY_ML CVE_ID="cveid_4f9f3241-0038-4ec7-856e-00c2c4e10be4">
-            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_66c6d88d-a75e-4498-9e61-b7e7e575574d">
-            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_77c2ca8c-aebe-4d80-9de3-ba0ae855e1d5">
-            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_bf217697-1208-4eda-a9bd-79ff188e6552">
-            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
-        </CV_ENTRY_ML>
-    </CONTROLLED_VOCABULARY>
     <CONTROLLED_VOCABULARY CV_ID="POS">
         <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
         <CV_ENTRY_ML CVE_ID="cveid_7f748e6b-ac3a-404e-8ec2-b2807e421bea">
@@ -8286,6 +8271,21 @@
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid_318e2d8a-f040-43fa-87fa-d60ea448aa5e">
             <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_4f9f3241-0038-4ec7-856e-00c2c4e10be4">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_66c6d88d-a75e-4498-9e61-b7e7e575574d">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_77c2ca8c-aebe-4d80-9de3-ba0ae855e1d5">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_bf217697-1208-4eda-a9bd-79ff188e6552">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
 </ANNOTATION_DOCUMENT>
